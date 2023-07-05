@@ -18,7 +18,6 @@ provide. Designed and built by me.
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Earth-Desktop-Widget/assets/2788342/bf22154b-4e74-4529-8b00-98247cd47b10)
 
-
 Built using: 
 
 	RJTextEd Advanced Editor  https://www.rj-texted.se/  
