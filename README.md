@@ -4,6 +4,7 @@ Steampunk Earth Desktop Yahoo Widget, written in Javascript and XML for the Yaho
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![earthMarble](https://github.com/yereverluvinunclebert/Earth-Desktop-Widget/assets/2788342/71abaa69-352f-4068-abf2-ea8997d300e6)
 
 This Earth Desktop Widget is an attractive dieselpunk Yahoo widget for your 
 desktop. This Konfabulator/ yahoo widget provides a simple static marble globe. 
@@ -14,6 +15,7 @@ All javascript widgets need an engine to function, in this case the widget uses
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. Designed and built by me.
+
 
 Built using: 
 
