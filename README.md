@@ -16,6 +16,8 @@ the Yahoo Widget Konfabulator engine. The engine interprets the javascript and
 creates the widget according to the XML description and using the images you 
 provide. Designed and built by me.
 
+![orrery-desktop](https://github.com/yereverluvinunclebert/Earth-Desktop-Widget/assets/2788342/bf22154b-4e74-4529-8b00-98247cd47b10)
+
 
 Built using: 
 
